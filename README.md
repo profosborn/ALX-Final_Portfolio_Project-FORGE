@@ -1,28 +1,35 @@
-# SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, Tailwind
+# FORGE - SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, NPM, Shadcn/ui, Stripe Connect, Prisma, MySQL, TailwindCSS, Clerk, and Planet Scale
 
-License: [Purchase your license from here to use this project for commercial use](https://webprodigies.com/license)
+# FORGE
 
-![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-| 🟢 Full Video | 🔴 Demo |
-|------------|------|
-| [Full Video](https://youtu.be/6omuUOZcWL0) | [Demo](https://webprodigies.com/demo) |
+## Description
 
-## ✨ Private Web design / development FREELANCE Community 
-Join the Community if you want to learn how to make money this year with websites! 
-FREE access Limited spots only!!!
-[Link - Private Community](https://webprodigies.com/communities)
+FORGE is designed to revolutionize the way you manage your online presence. Whether you're a freelancer, small business owner, or entrepreneur, FORGE offers a powerful suite of features to help you succeed in the digital world
 
-## Get all the help you need
-Share all bugs and solutions in the discord. Would love to collaborate and get to know talented developers like yourself. 
-[Discord](https://discord.gg/GG4wJkxh)
+## Table of Contents
 
-## SaaS Notion Clone with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets
-[Saas Notion Clone](https://www.youtube.com/watch?v=A3l6YYkXzzg)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Installation
+
+Provide step-by-step instructions on how to install and set up the project. Include any prerequisites or dependencies that need to be installed.
+
+## Features
 
 ### Features in this application.
-- 🤯 Multivendor B2B2B Saas
+- 💰 Custom Dashboards
+- 📊 Media Storage
+- 🤯 Multivendor B2B2B SaaS
 - 🏢 Agency and Sub accounts
+- 🎨 Khanban board
+- 📂 Project management system
 - 🌐 Unlimited funnel hosting
 - 🚀 Full Website & Funnel builder
 - 💻 Role-based Access
@@ -30,13 +37,9 @@ Share all bugs and solutions in the discord. Would love to collaborate and get t
 - 🛒Stripe add-on products
 - 🔐 Connect Stripe accounts for all users! - Stripe Connect
 - 💳 Charge application fee per sale and recurring sales
-- 💰 Custom Dashboards
-- 📊 Media Storage
 - 📈 Stripe Product Sync
 - 📌Custom checkouts on funnels
 - 📢 Get leads from funnels
-- 🎨 Khanban board
-- 📂 Project management system
 - 🔗 Notifications
 - 📆 Funnel performance metrics
 - 🧾 Agency and subacc metrics
@@ -44,9 +47,22 @@ Share all bugs and solutions in the discord. Would love to collaborate and get t
 - ☀️ Light & Dark mode
 - 📄 Functioning landing page
 
+## Contributing
+We welcome contributions from the community to improve the project. To contribute, please follow these guidelines:
 
-## Website with background grids
-[ibelick](https://bg.ibelick.com/)
+- Fork the repository and clone it to your local machine.
+- Create a new branch for your feature or bug fix: git checkout -b feature-name.
+- Make your changes and test thoroughly.
+- Commit your changes: git commit -m "Description of your changes".
+- Push to your branch: git push origin feature-name.
+- Submit a pull request detailing your changes.
 
-## Shadcn UI Theme creator
-[Link To Website](https://gradient.page/tools/shadcn-ui-theme-generator)
+Please ensure that your code adheres to our coding standards and conventions. Bug fixes, feature enhancements, and documentation improvements are all welcome!
+
+## License
+This project is licensed under the MIT License. You are free to modify and distribute the code as long as you include the original license notice.
+
+## Contact
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+Email: oeworlasi@gmail.com
